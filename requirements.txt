@@ -1,0 +1,7 @@
+streamlit
+openai
+tiktoken
+faiss-cpu
+numpy
+pypdf
+rank-bm25
